@@ -5,3 +5,13 @@
 3、提交至本地仓库(git commit)：在git仓库目录输入git commit -m "Initial priject setup"，将所有暂存区的文件提交至本地仓库
 
 4、连接远程仓库，若已连接则跳过该步骤(git remote add origin )
+
+
+
+
+
+
+备注：
+1、.git文件夹：
+
+2、.gitignore文件：忽略不需要进行版本控制的目录与文件，构建时自动生成的文件与临时文件，都不应纳入版本控制
