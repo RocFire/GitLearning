@@ -1,0 +1,12 @@
+.idea/
+*.user
+*.sln.iml
+
+
+bin/
+obj/
+**/build/
+*.exe
+*.dll
+*.pdb
+*.cache
