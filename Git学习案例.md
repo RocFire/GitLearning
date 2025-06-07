@@ -4,7 +4,11 @@
 
 3、提交至本地仓库(git commit)：在git仓库目录输入git commit -m "Initial priject setup"，将所有暂存区的文件提交至本地仓库
 
-4、连接远程仓库，若已连接则跳过该步骤(git remote add origin )
+4、连接远程仓库，若已连接则跳过该步骤(git remote add  )
+
+5、推送至远程分支仓库(git push GetLearning origin)
+
+6、请求合并至主分支
 
 
 
