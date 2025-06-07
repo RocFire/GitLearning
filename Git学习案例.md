@@ -8,7 +8,7 @@
 
 5、推送至远程分支仓库(git push GetLearning origin)
 
-6、请求合并至主分支
+6、请求合并至主分支(pull request)
 
 
 
